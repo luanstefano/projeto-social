@@ -41,9 +41,9 @@ iframe.telatelefone {
 }
 
 section#redes-sociais {
-    position: relative;
+    position: absolute;
     top: 25vh;    
-    text-align: right;
+    
 }
 
 section#redes-sociais img {
